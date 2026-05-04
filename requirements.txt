@@ -1,0 +1,13 @@
+Flask==2.2.5
+transformers
+torch
+gunicorn
+requests
+numpy==2.4.4
+joblib
+scikit-learn
+
+
+
+
+
